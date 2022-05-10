@@ -1,0 +1,7 @@
+.nav__lista {
+    display: flex;
+}
+
+.nav__lista {
+    list-style: none;
+}

@@ -1,0 +1,12 @@
+
+.nav__item:first-child a {
+    font-weight: bold;
+}
+
+.nav__item:last-child a {
+    margin-right: 0;
+}
+
+.nav__item:hover {
+    text-decoration: none;
+}
